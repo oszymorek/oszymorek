@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on [Atomic Blog](https://project12-oszymorek.netlify.app/)
 

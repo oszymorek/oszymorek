@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Atomic Blog](https://project12-oszymorek.netlify.app/)
-
-- 🌱 I’m currently learning **React.js + Next.js**
+- 🌱 I’m currently learning **Kubernetes && AWS Cloud**
 
 - 👨‍💻 All of my projects are available at [www.szymorek.com](www.szymorek.com)
 
-- 💬 Ask me about **HTML, CSS, SCSS, Tailwind, Figma, JavaScript, TypeScript, React.js, Next.js, Docker, Linux, Docker**
+- 💬 Ask me about **HTML, CSS, SCSS, Tailwind, Figma, JavaScript, TypeScript, React.js, Linux, Docker**
 
 - 📫 How to reach me **oskarszymorek1999@gmail.com**
 
